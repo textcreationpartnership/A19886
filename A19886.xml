@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A protestation made and published by Iohn Davenporte vpon occasion of a pamphlett intitled A iust complaint against an uniust doer published by a nameles person</title>
+            <author>Davenport, John, 1597-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19886</idno>
+            <idno type="STC">STC 6312</idno>
+            <idno type="STC">ESTC S118475</idno>
+            <idno type="EEBO-CITATION">99853682</idno>
+            <idno type="PROQUEST">99853682</idno>
+            <idno type="VID">19076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1170:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A protestation made and published by Iohn Davenporte vpon occasion of a pamphlett intitled A iust complaint against an uniust doer published by a nameles person</title>
+                  <author>Davenport, John, 1597-1670.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Isaac from Waesberghe, upon the Steygher, in the Fame,</publisher>
+                  <pubPlace>Pranted [sic] at Rotterdam :</pubPlace>
+                  <date>M D xxxv. [1635]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint date is made with turned C's.</note>
+                  <note>Signatures: [three asterisks]⁴.</note>
+                  <note>Reproduction of the original in the Dr. Williams's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Davenport, John, 1597-1670. --  Just complaint against an unjust doer --  Early works to 1800.</term>
+               <term>Paget, John, d. 1640 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19076:1" rendition="simple:additions"/>
+            <p>A PROTESTATION <hi>Made and Publiſhed by</hi> Iohn Davenporte <hi>vpon occaſion of a pamphlett</hi> Intitled A IVST COMPLAINT AGAINST AN VNIVST DOER <hi>publiſhed by a nameles perſon.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pro. 26.17.</hi>
+               </bibl>
+               <p>He that paſſeth by, and medleth with Strife belonging not to him, is like one that taketh a dogge by the eare.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mat. 10.16.17.</hi>
+               </bibl>
+               <p>Be yee wiſe as Serpents, and harmles as Doues, but beware of Men.</p>
+            </q>
+            <figure>
+               <figDesc>flying angel blowing a horn and carrying a quill pen</figDesc>
+            </figure>
+            <p>Pranted at ROTTERDAM, by <hi>Iſaac from Waeſbergbe,</hi> upon the Steygher, in the Fame. MDCxxxv.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:19076:2" rendition="simple:additions"/>
+            <pb facs="tcp:19076:2" rendition="simple:additions"/>
+            <p>
+               <seg rend="decorInit">T</seg>He third day of this preſent month of Ian: 1635. <hi>New Stile,</hi> at noone, the fornamed booke was delivered into my hands, by a <hi>Reverent Brother,</hi> which when I had received, and read the title page, and conſidered the drift of the <hi>Publiſher,</hi> I was amaſed to ſee my name prefixed and paſſages, which concerned me, <hi>Publiſhed,</hi> without my knowledge, and uſſhered with ſuch harſh and unſavoury language, and Scriptures ſo wreſted and miſſapplyed: nor could I have reſt in my Spirit, till I had re<g ref="char:EOLhyphen"/>ſolved upon this <hi>Proteſtation,</hi> which I now publiſh for the declaration, both of mine innocencie in this matter, and of my hearty diſlike of this courſe.</p>
+            <p>Firſt, therefore, I doe ſolemniley and ſadly proteſt theſe three following particulars.</p>
+            <p n="1">1. That I know not, nor can yet learne, who is the <hi>Publiſher</hi> therof.</p>
+            <p n="2">2 That he had not my approbation, or conſent to this <hi>Publiſhing</hi> of it.</p>
+            <p n="3">3. That I doe account the injury done herein ſo greate, that I know not how the <hi>Publiſher</hi> of it ſhall be able to make ſatiſfac<g ref="char:EOLhyphen"/>tion, other wiſe, then by revoking his books, burning the whole impreſſion, or printing another, that may paſſe as publickly, as this is like to doe, in acknowledgement of his fault.</p>
+            <p>Secondly, what motive ſet this <hi>Publiſher</hi> upon this worke I know not nor, can I magine, unles I knew the man. If the <hi>arrow againſt the Seperation</hi> Stick ſtill in his ſide,<note place="margin">A Booke be made by <hi>Mr. Paget</hi>
+               </note> and cauſe him
+<pb facs="tcp:19076:3"/>thus to kick, and fling, let him know that recrimination is no <hi>APOLOGY,</hi>
+               <note place="margin">A Booke be made by <hi>Mr.</hi> Paget</note> and books are better anſwered by arguments, then reproaches, and it is more wiſdom to heale a mans ſelfe, then to wound another, to clenſe himſelfe, then to beſme<g ref="char:EOLhyphen"/>are another. If ſome other, not ingaged in that quarrail, be the doer of it, I wiſh him to co<g ref="char:cmbAbbrStroke">̄</g>ſider ſeriouſly, whether ſome by<g ref="char:EOLhyphen"/>reſpect, or ſecret diſtemper have not biaſſed his ſpirit a wronge way, or imbittered it too much.</p>
+            <p>Thirdly: ſeing the <hi>Publiſher</hi> conſealeth his name, ſaying, <hi>Publiſhed by one that</hi> &amp;c. I pray him to informe him ſelfe of three things.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaere. </seg>1</label> 1. Whether that one be not, in this act, an injurious one? If ſo; had that evill bene a raigning ſinne in him, which, I hope, is but, his infirmitie, it would have bene found no ſmall ſinne in the puniſhment, which he may yet eſcape by repentance 1. <hi>Tim.</hi> 1.13.14.16.</p>
+            <p>As for my ſelf; had I bene Silent in this caſe; every man would have concluded mee guilty: yea, it is already reported that I am the author of it, and ſo, beſides the injury done to my ſelfe (being repreſented to the publick view as a co<g ref="char:cmbAbbrStroke">̄</g>tentious per<g ref="char:EOLhyphen"/>ſon, which I naturally abhorr, and by Grace much more) the injury alſo would have fallen upon ſo many perſons, as, upon this occaſion, ſhould have bene ſcandaliſed by evill ſurmiſes un<g ref="char:EOLhyphen"/>juſtly received againſt me, which is Slander in hearte.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaere </seg>2</label> 2 Whether that <hi>one</hi> be not, in this acte, <hi>one, that ſoweth diſcord among Brethren,</hi> which is <hi>one</hi> of the <hi>ſixe things the Lord hateth and of</hi> the <hi>ſeaven that are an abhomination to him. Pro. 6.16.17 18.19.</hi> For, if this was not the end, or intent of the publiſher (as I will hope, it was not) yet, if God doe not, beyond expectatio<g ref="char:cmbAbbrStroke">̄</g>, mercifully prevent it, it may be the end or event of the wor<g ref="char:EOLhyphen"/>ke. But <hi>the Lord rebuke Sathan! The beginning of Strife is as the ope<g ref="char:EOLhyphen"/>ning of Waters,</hi> ſayth <hi>Salomon pro. 17.14.</hi> If any man ſhould goe a<g ref="char:EOLhyphen"/>bout
+<pb facs="tcp:19076:3"/>to open the ſluſes, how ſoone might theſe NETHERLANDS be drowned, before they could be ſtopped againe? And, who knoweth not that a little Child may fire an houſe, which a thou<g ref="char:EOLhyphen"/>ſand men cannot quench?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaere. </seg>3</label> Thirdly. Whether that <hi>one,</hi> be not this acte, a <hi>Buiſy body? 2. Theſ. 3.11. one,</hi> that <hi>Buſieth</hi> himſelfe <hi>in other mens matters. 1. pet. 4.15.</hi> For, if the <hi>publiſher</hi> be not a member of that Church; what calling hath he to interpoſe himſelfe thus publickly in matters, which properly and only concerne that Church? If he be a member of that Church; what warrant hath any particular me<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ber to publiſh thoſe greivances to the world, which are by them ſelves referred to theyre Conſiſtory, before matters have bene there diſcuſſed, and determined, or, at leaſt, before the iſſue, and concluſion, which there ſhall be put to the queſtion, hath bene ſufficiently demanded and expected? who ever he be; who called him to intrude himſelfe into matters that appertame to me, ſo farr as to publiſh a privat wrighting, with my name to it, without my kno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wledg, and againſt my mind?</p>
+            <p>I leave the publiſher to ſatiſfie him ſelfe in theſe particulers, which whileſt he endeavoreth to doe, I wil labour to ſatiſfye all men concerning myne innocencie in the firſt part of the booke, leaving the ſecond part of the booke to the members of that Church, whom it concerneth.</p>
+            <p>Firſt, I confeſſe, that, about ſixe months ſince, having bene often provoked by injurious reports, about my letter to the Claſſis, and about my Tenet againſt <hi>promiſcuous Baptizing</hi> all that are brought (eſpecially in ſuch a place as <hi>Amſterdam</hi>) and about my deſiſting, and about paſſages betweene M<hi rend="sup">r</hi>. <hi>Paget,</hi> and me, and having bene much ſollicited by particular freinds, to give my anſwers to ſuch objectio<g ref="char:cmbAbbrStroke">̄</g>s, as were dayly brought to me, and, being informed that the Duch in that citty, and ſome of the
+<pb facs="tcp:19076:4" rendition="simple:additions"/>members of that Church, and many of our nation, in other parts of theſe Contries, were by miſreports prejudiced againſt me, and, ſeing that I purpoſed ſhortly to leave theſe Contries: upon ſuch neceſſity, and much importunity, I was conſtrayned to ſett downe thoſe particulars in wrighting, that ſome freind might be able to ſpeake in the cauſe of the dumb, and to cleare the trueth in my abſence.</p>
+            <p>Secondly. I profeſſe, that no man hath the originall Copie, but my ſelfe, and that, for aught I know, I never gave it to mo<g ref="char:EOLhyphen"/>re then two to peruſe, and whether they both tranſcribed Copi<g ref="char:EOLhyphen"/>es out of it, or no, I know not, but they both returned myne to me againe, which, I have in my keeping, at this inſtant, and my intent, in communicating it to thoſe two, was only to inable them to give privat ſatiſfaction to thoſe that ſhould require it of them, and ſo to inable thoſe to ſatiſfye others, in a private way, as may appeare, in that I applyed my ſelfe, in that wrighting, onely to ſuch things as were then objected, concealing other things which I might have added for my further clearing, vnles more publick provocation ſhould make it neceſſary to publiſh all together. Which I have hither to forborne, expecting when God would ſweetly order, and diſpoſe the ſpirits of paſtor and people, in that Church, to vnity and concord betweene them ſelves, in ſome concluſions, and wayes of advancing theyre mu<g ref="char:EOLhyphen"/>tuall good and comfort agreable to the Goſpell, and rule, which Chriſt hath left for his Churches to walke by, which I have ho<g ref="char:EOLhyphen"/>ped hither to that God would, in time, effect, and doe ſtill hope and pray forit: The grant where of would be to me, matter of vn<g ref="char:EOLunhyphen"/>feigned joy and thankſgiving (not with ſtanding al the Injuryes which I have Suffered in that place) wherſoever it ſhould ple<g ref="char:EOLhyphen"/>aſe God to pich my tent afterwards.</p>
+            <p>
+               <hi>Thirdly,</hi> From hence it will follow, that I am al to-gether in<g ref="char:EOLhyphen"/>nocent in this Matter, which, as I knew not of it, till it was
+<pb facs="tcp:19076:4" rendition="simple:additions"/>brought to me in print, ſo I vtterly diſlike, both for the vnſea<g ref="char:EOLunhyphen"/>ſonablenes of the worke, and for the vnreaſonable, and vnchari<g ref="char:EOLhyphen"/>table bitternes of the <hi>Publiſher.</hi>
+            </p>
+            <p>Laſtly, my requeſt therfore is,</p>
+            <p n="1">1. to <hi>M. Paget</hi> that he will reſt ſatiſfied with my ingenuous profeſſion, and acquitt me (as he aught) of any ſuſpicion of guilt, in this particular.</p>
+            <p>Secondly. To the publiſher, that, ſeing he omitted to cleare my innocency in his firſt publication of this <hi>Phamphlett,</hi> he will now do me ſo much right as to affixe this ſheete of paper, in ſtead of a poſtſcript, to his booke, or diſperſe it among all per<g ref="char:EOLhyphen"/>ſons, to whoſe hands his booke ſhall come, or is come. But he will moſt gratifieme, if he make one good fire of both together</p>
+            <p>Thirdly. To all men, to whoſe hands the other book ſhall co<g ref="char:EOLhyphen"/>me, that they will ſpedily ſend this after it, or ſtiche this with it: aſſuring themſelfes, that, if I could have foreſeene this injury, I would have prevented it. For, how ſoever I have written no<g ref="char:EOLhyphen"/>thing in that declaration, but the truth (which I am alſo ready to confirme, as occaſion ſhall require) yet, I affect not to make that publick which may be ended privaty, much leſſe to be the firſt in a contention, whether publick or private.</p>
+            <p>
+               <hi>Now the very God of peace,</hi> who alſo is <hi>Love,</hi> vnite our hearts to himſelfe, and one to and other in that <hi>Love,</hi> which is out of a <hi>Pure hart, and a good Conſcience, and faith vnfeined:</hi> and in able vs to <hi>keepe the vnity of the Spirit, in the bond of peace,</hi> even for his ſa<g ref="char:EOLhyphen"/>ke, who is <hi>the prince of peace,</hi> and in whom <hi>Wee, who ſometimes we<g ref="char:EOLhyphen"/>re afarr off, are made night by the blood of Chriſt, who is our peace!</hi>
+            </p>
+            <closer>AMEN.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
